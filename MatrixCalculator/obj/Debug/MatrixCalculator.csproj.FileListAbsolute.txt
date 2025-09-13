@@ -1,0 +1,8 @@
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.pdb
+C:\Users\aisha_ppxjc2l\source\repos\Matrix-Calculator\MatrixCalculator\obj\Debug\MatrixCalculator.exe.config
